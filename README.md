@@ -1,7 +1,5 @@
 ### Hi there, I'm M0nty - aka Tea 👋
 
-### Gmail = wintoxs8@gmail.com
-
 ## I'm a Student, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
