@@ -2,9 +2,8 @@
 
 ## I'm a Student, Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play video-games
+- I’m currently learning everything
+-2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 [<img align="left" alt="m0nty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
