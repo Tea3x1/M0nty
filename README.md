@@ -1,24 +1,49 @@
-<h1 align="center">Hello, I'm Muhammed</h1>
-<h3 align="center">A passionate Data Scientist from Egypt</h3>
+# 🏄‍♂️ Muhammed Abd El Tawab
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tea3x1&label=Profile%20views&color=0e75b6&style=flat" alt="tea3x1" /> </p>
+**`Data Lover (Analyst/Scientist/Engineer)`**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tea3x1" alt="tea3x1" /></a> </p>
+As a highly skilled and dedicated Data Scientist, I possess a deep understanding of statistical analysis, data mining, and machine learning techniques. With 2 years of experience in the field, I have successfully developed and implemented advanced analytics solutions for various industries.My expertise lies in gathering, analyzing, and interpreting large datasets to extract actionable insights that drive strategic decision-making. I am proficient in programming languages such as Python, R, and SQL and have a strong command over data visualization tools like Tableau and Power BI. Additionally, I have hands-on experience with big data technologies such as Hadoop and Spark.
 
-- 📫 How to reach me **wintoxs8@gmail.com**
+   <p align="left">
+      <a href="https://github.com/Tea3x1?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Tea3x1?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://scully.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🧰 Languages and Tools
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/w00n1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/w00n1" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tea3x1&show_icons=true&locale=en&layout=compact" alt="tea3x1" /></p>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="MySql" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
+<img align="left" alt="Power Bi" width="60px" style="padding-right:10px;" src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" />
+<img align="left" alt="Tableau" width="60px" style="padding-right:10px;" src="https://banner2.cleanpng.com/20180428/gwq/kisspng-tableau-software-tableau-server-tableau-online-bus-5ae532d75f1ed3.7101897015249701993896.jpg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://img.jsdelivr.com/github.com/tensorflow.png" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tea3x1&show_icons=true&locale=en" alt="tea3x1" /></p>
+#
+### 📊 Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tea3x1&" alt="tea3x1" /></p>
+![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=tea3x1&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Muhammed's Coding Journey</h3></summary>
+  
+  In my previous roles, I have effectively worked with cross-functional teams to identify business challenges and design innovative solutions. By leveraging predictive modeling techniques, I have successfully built robust models to forecast customer behavior, optimize pricing strategies, and improve operational efficiency.
+
+Communication and presentation skills are vital to my work, as I effectively communicate complex data-driven insights to both technical and non-technical stakeholders. I have a proven track record of delivering actionable insights through compelling visualizations and reports.
+
+I am passionate about staying up-to-date with the latest trends in data science and continuously enhance my skills by attending workshops, participating in hackathons, and pursuing online courses.
+
+In summary, I am a driven and results-oriented Data Scientist with a proven ability to transform raw data into valuable insights. My commitment to problem-solving, strong technical expertise, and excellent communication skills make me a valuable asset for any organization seeking to harness the power of data for their strategic goals.
